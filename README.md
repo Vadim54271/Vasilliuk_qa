@@ -1,5 +1,1 @@
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1FEtDsFrrHeKjBEg38NiZhPfJTM8CbgfY7WtFr-G0cKo/edit?usp=sharing)
-
----
-
-[Пример моего тестового задания](https://name54271.atlassian.net/jira/software/c/projects/MCWO/boards/1?selectedIssue=MCWO-3)
+[Пример моих чек листов и тест кейсов](https://docs.google.com/spreadsheets/d/16h_iZCK8tKhn3iv8_5VDBwnSkQ50W_DRFajIQh2FYVE/edit?usp=sharing)
